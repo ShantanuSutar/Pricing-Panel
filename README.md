@@ -10,4 +10,12 @@ So, today I made a panel for Ride Booking Services which has three types of ride
 Also, I wrote its features and the price of what it costs for going from one location to the other provided by the user.
 Then, the user can book the ride of his/her preference.
 
+On first look, you will find that its just an ordinary looking static page and what's different.
+
+But, here is the best part, if you reduce the size of the tab or if you view this page on an ipad or phone it will wrap itself in a amazingly well manner and will maintain the user experience.
+
+I have used some wrap, flexbox and @media properties in CSS for making that happen.
+
+Try it out !
+
 (Note: Only Frontend bcoz I am yet to learn Backend :)
