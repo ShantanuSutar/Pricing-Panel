@@ -18,4 +18,6 @@ I have used some wrap, flexbox and @media properties in CSS for making that happ
 
 Try it out !
 
+Link :- https://shantanusutar.github.io/Pricing-Panel.github.io/
+
 (Note: Only Frontend bcoz I am yet to learn Backend :)
